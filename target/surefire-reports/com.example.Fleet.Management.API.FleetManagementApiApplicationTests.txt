@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.Fleet.Management.API.FleetManagementApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.46 s -- in com.example.Fleet.Management.API.FleetManagementApiApplicationTests

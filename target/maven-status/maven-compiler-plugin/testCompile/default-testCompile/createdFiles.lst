@@ -1,0 +1,3 @@
+com\example\Fleet\Management\API\FleetManagementApiApplicationTests.class
+com\example\Fleet\Management\API\service\TaxiServiceTest.class
+com\example\Fleet\Management\API\repository\TaxiRepositoryTest.class
